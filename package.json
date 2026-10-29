@@ -49,5 +49,11 @@
     "fs.js",
     "readline.js",
     "zlib.js"
-  ]
+  ],
+  "overrides": {
+    "thenify": ">=3.3.1"
+  },
+  "resolutions": {
+    "thenify": ">=3.3.1"
+  }
 }
